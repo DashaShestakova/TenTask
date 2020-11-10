@@ -1,0 +1,10 @@
+2020-11-10 16:10:18,596 INFO c.e.i.t.t.l.c.TextCreator [main] Text creating is started
+2020-11-10 16:10:18,620 INFO c.e.i.t.t.l.c.TextCreator [main] Text creating completed successfully
+2020-11-10 16:14:41,072 INFO c.e.i.t.t.l.c.TextCreator [main] Text creating is started
+2020-11-10 16:14:41,085 INFO c.e.i.t.t.l.c.TextCreator [main] Text creating completed successfully
+2020-11-10 16:46:59,663 INFO c.e.i.t.t.r.Reader [main] Reading text from file src/main/resources/input.txt
+2020-11-10 16:48:54,189 INFO c.e.i.t.t.r.Reader [main] Reading text from file src/main/resources/input.txt
+2020-11-10 16:53:31,945 INFO c.e.i.t.t.r.Reader [main] Reading text from file src/main/resources/input.txt
+2020-11-10 16:54:28,094 INFO c.e.i.t.t.r.Reader [main] Reading text from file src/main/resources/input.txt
+2020-11-10 18:50:45,545 INFO c.e.i.t.t.l.s.ParagraphSorterBySentenceNumber [main] Paragraph has been successfully sorted by sentence number
+2020-11-10 18:51:12,266 INFO c.e.i.t.t.l.s.WordSorterByLength [main] Sentence has been successfully sorted by word length
